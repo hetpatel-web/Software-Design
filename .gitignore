@@ -1,1 +1,37 @@
 course_material/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.metadata/
+bin/
+*.tmp/
+*.bak/
+*.swp/
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
